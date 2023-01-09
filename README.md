@@ -22,7 +22,7 @@ You would be promted with questions realated to your project which would later b
 
 ## License
 
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
 
