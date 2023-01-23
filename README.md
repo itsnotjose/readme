@@ -7,14 +7,13 @@ This is a great way to cut down on time when writing a README without any sacrif
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
+* [Screenrecording](#screenrecording)
 * [Questions](#questions)
 
 ## Installation
 
-Node init
-
+Node.js
+Npm
 
 ## Usage
 
@@ -24,13 +23,9 @@ You would be promted with questions realated to your project which would later b
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Contributing
+## Screenrecording
 
-Thank you for the interest, but at the moment not looking for any.
-
-## Tests
-
-After getting the code on your Vscode use node index.js to be promted with the questions.
+https://drive.google.com/file/d/1r6095lxVBvjQ9CcBcxbKzSXFBMqnjnBD/view
 
 ## Questions
 
